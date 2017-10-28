@@ -1,2 +1,2 @@
-# fluidmenu
+# Fluidmenu
 Easy to use Javascript menu
